@@ -1,3 +1,3 @@
-# coursera-andrew-ng-ml-solutions-python
+# Machine Learning Course by Andrew Ng - Coursera
 
-These are my solutions for programming assignments of machine learning coursera course by Andrew Ng.
+These are my solutions for programming assignments for the course. 
